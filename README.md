@@ -16,10 +16,10 @@
 ##
 
 <div>
-    <a href="mailto:diego.simonaio@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Icon" target="_blank">
+    <a href="mailto:diego.simonaio@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Icon">
     </a>
     <a href="https://www.linkedin.com/in/diego-brino/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-Icon"  target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-Icon">
     </a>
 </div>
